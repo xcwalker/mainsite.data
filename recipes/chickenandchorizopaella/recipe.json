@@ -1,0 +1,73 @@
+{
+  "data": {
+    "title": "Chicken & Chorizo Paella",
+    "subTitle": "Best of XCWalker",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, in temporibus laborum, non est deleniti eum hic, ipsam recusandae dolor impedit? Cumque odit sapiente explicabo minus ea voluptatum eaque illo.",
+    "instructions": {
+      "prep": [
+        "Finely chop the onions.",
+        "Finely chop the garlic.",
+        "Finely chop the chorizo.",
+        "Finely chop the celery.",
+        "Peel and finely cube the carrots.",
+        "Cut the chicken into 2cm pieces.",
+        "Drain and roughly chop the roasted red peppers.",
+        "Finely chop the parsley (to serve)."
+      ],
+      "cook": [
+        "Spray a paella pan orlarge non-stick frying pan with low-calorie cooking spray and place over a medium-low heat.",
+        "Add the onions, garlic, chorizo, celery and carrot and stir-fry for 6-8 minutes, or until softened.",
+        "Add the tomatoes and cookfor 2-3 minutes.",
+        "Stir in the rice and cookfor a further 2-3 minutes, then add the chicken, tomato purée, paprika andsaffron.",
+        "Pour in enough water tojust cover the rice, and bring to the boil.",
+        "Reduce the heat tomedium-low, cover and simmer for 15-20 minutes, stirring occasionally.",
+        "When there is only alittle water left in the pan, stir in the peppers, peas, and sweetcorn.",
+        "Continue to cook for 5-6minutes, or until the rice is just tender and the chicken is cooked through.",
+        "Add a little boiling water (if it gets too dry).",
+        "Season lightly and scatter over the parsley.",
+        "Divide between 4 bowls andserve with lemon wedges for squeezing over."
+      ]
+    },
+    "ingredients": [
+      "Low-calorie cookingspray",
+      "3 Onions",
+      "4 Garlic Cloves",
+      "100g Chorizo",
+      "2 Celery Stalks",
+      "2 Carrots",
+      "2 Large Tomatoes (peeled, deseeded and roughly chopped)",
+      "300g Dried Paella Rice",
+      "4 Skinless Chicken Breast Fillets",
+      "4 tbsp Tomato Purée",
+      "1 tbsp Spanish Sweetsmoked Paprika",
+      "200g Roasted Red Peppers In Brine From A Jar",
+      "200g Frozen Peas",
+      "150g Frozen Sweetcorn",
+      "Handful Of Freshflat-leaf Parsley (To Serve)",
+      "Lemon Wedges (To Serve)"
+    ],
+    "information": {
+      "prepTime": "10 mins",
+      "cookTime": "60 mins",
+      "serves": "4"
+    }
+  },
+  "metaData": {
+    "date": {
+      "created": "2022-08-26T16:06:38.116Z",
+      "modified": "2022-08-26T16:06:38.116Z"
+    },
+    "imageDirectory": "images",
+    "imageCount": 0,
+    "tags": ["paella"],
+    "collection": "Best of",
+    "collectionName": "Best of XCWalker",
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
