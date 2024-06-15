@@ -1,0 +1,23 @@
+{
+  "data": {
+    "title": "Chevrolet Tahoe",
+    "subTitle": "XCW Photon Series",
+    "description": "A photon version of Lonewolfie's Chevrolet Tahoe.\n\nFeaturing an LEO and CIV spec vehicle.\n\nLEO lighting in colors, Red & Blue, Blue, Red, Amber, and Green.\n\nSkins shown are currently unavailable, but will later be found in a skin pack, work in progress is visible here: [XCW-Skins](https://github.com/XCWalker/gmod/tree/main/xcw-skins)",
+    "thumbnail": "promo-0.jpg"
+  },
+  "metaData": {
+    "date": {
+      "created": "2024-05-20T15:38:37.234Z",
+      "modified": "2024-05-20T16:38:37.234Z"
+    },
+    "slug": "xcw-chevrolet_tahoe",
+    "imageDirectory": "images",
+    "imageCount": 13,
+    "tags": ["gmod", "photon", "lua"],
+    "collection": "gmod",
+    "collectionName": "garry's mod",
+    "repoName": "gmod",
+    "subRepo": true,
+    "workshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3082493539"
+  }
+}
