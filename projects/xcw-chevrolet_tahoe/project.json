@@ -11,13 +11,19 @@
       "modified": "2024-05-20T16:38:37.234Z"
     },
     "slug": "xcw-chevrolet_tahoe",
-    "imageDirectory": "images",
     "imageCount": 13,
     "tags": ["gmod", "photon", "lua"],
     "collection": "gmod",
     "collectionName": "garry's mod",
     "repoName": "gmod",
     "subRepo": true,
-    "workshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3082493539"
+    "workshop": "https://steamcommunity.com/sharedfiles/filedetails/?id=3082493539",
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
   }
 }
