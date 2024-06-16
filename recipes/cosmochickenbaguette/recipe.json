@@ -39,6 +39,10 @@
     "tags": ["Baguette"],
     "collection": "Baguette",
     "collectionName": "Baguette Series",
+    "colors": {
+      "dark": "#9f7f2a",
+      "light": "#9f7f2a"
+    },
     "author": {
       "name": "Xander Walker",
       "image": {

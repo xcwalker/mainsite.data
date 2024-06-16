@@ -61,6 +61,10 @@
     "tags": ["paella"],
     "collection": "Best of",
     "collectionName": "Best of XCWalker",
+    "colors" : {
+      "dark": "#e95959",
+      "light": "#e95959"
+    },
     "author": {
       "name": "Xander Walker",
       "image": {
