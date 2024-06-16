@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "S.A.F - Eagle Logo",
+    "subTitle": "S.H.I.E.L.D.",
+    "description": "SHIELD Armed Forces, is a department of S.H.I.E.L.D. in the Marvel Cinematic Universe, this is not an official department.\n\nThis logo was made in illustrator based on some images found on the internet.\n\nThis logo was built upon the first eagle logo and merged with the union flag, with the white removed.\n\nThis design was made as an SVG making it easily scalable to any size.\n\nThe use of the gaps gives this logo a more modern style to the original logo and better matching the text logo."
+  },
+  "metaData": {
+    "date": {
+      "created": "2021-09-07T15:38:37.234Z",
+      "modified": "2024-05-20T15:38:37.234Z"
+    },
+    "slug": "saf-eagle_logo",
+    "imageCount": 2,
+    "tags": ["shield", "saf", "svg"],
+    "collection": "shield",
+    "collectionName": "shield",
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
