@@ -1,0 +1,60 @@
+{
+  "data": {
+    "title": "Mexican Burrito Bowl",
+    "subTitle": "Te Be Determined",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, in temporibus laborum, non est deleniti eum hic, ipsam recusandae dolor impedit? Cumque odit sapiente explicabo minus ea voluptatum eaque illo.",
+    "instructions": {
+      "prep": [
+        "Finely chop the onion.",
+        "Finely chop the garlic.",
+        "crush up the dried chipotle chillies."
+      ],
+      "cook": [
+        "Heat a frying pan on medium-high heat, and spray with the cooking spray.",
+        "Add the mince and break up into smaller chunks.",
+        "Once the mince has started to brown (4-5 minutes) add the onion.",
+        "Once the onion has softened (6-8 minutes) add the garlic, chillies, tomato purée, stock and kidney beans.",
+        "Reduce the heat to low and simmer for 15-20 minutes, until thickened",
+        "Meanwhile, cook the 250g dried rice according to packet instructions"
+      ]
+    },
+    "ingredients": [
+      "low calorie cooking spray",
+      "400g lean beef mince (5% fat or less)",
+      "1 large onion, finely chopped",
+      "2 garlic cloves, finely chopped",
+      "1 tsp crushed dried chipotle chillies (dried ones are sold whole)",
+      "6 tbsp tomato purée",
+      "200ml beef stock",
+      "2 x 400g cans red kidney beans in chilli sauce",
+      "salt and freshly ground black pepper",
+      "cooked long-grain rice"
+    ],
+    "information": {
+      "prepTime": "TBD",
+      "cookTime": "TBD",
+      "serves": "4"
+    }
+  },
+  "metaData": {
+    "date": {
+      "created": "2017-09-06T16:06:29.957Z",
+      "modified": "2024-06-25T15:47:04.665Z"
+    },
+    "imageCount": 0,
+    "tags": ["TBD"],
+    "collection": "TBD",
+    "collectionName": "To Be Determined",
+    "colors": {
+      "dark": "#9f7f2a",
+      "light": "#9f7f2a"
+    },
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
