@@ -7,7 +7,7 @@
       "prep": [
         "Finely chop the onion.",
         "Finely chop the garlic.",
-        "crush up the dried chipotle chillies."
+        "Crush up the dried chipotle chillies."
       ],
       "cook": [
         "Heat a frying pan on medium-high heat, and spray with the cooking spray.",
@@ -47,8 +47,8 @@
     "collection": "TBD",
     "collectionName": "To Be Determined",
     "colors": {
-      "dark": "#9f7f2a",
-      "light": "#9f7f2a"
+      "dark": "#BB3C33",
+      "light": "#BB3C33"
     },
     "author": {
       "name": "Placeholder"

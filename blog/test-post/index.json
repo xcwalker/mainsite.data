@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "The First Test Post",
+    "subTitle": "A Test (duh)",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, in temporibus laborum, non est deleniti eum hic, ipsam recusandae dolor impedit? Cumque odit sapiente explicabo minus ea voluptatum eaque illo."
+  },
+  "metaData": {
+    "date": {
+      "created": "2024-12-04T23:22:49.447Z",
+      "modified": "2024-12-04T23:22:49.447Z"
+    },
+    "slug": "test-post",
+    "imageCount": 0,
+    "tags": ["test", "first", "duh"],
+    "collection": "test",
+    "collectionName": "testing",
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
