@@ -6,7 +6,7 @@
     "instructions": {
       "prep": ["Preheat oven to 160C"],
       "cook": [
-        "Sieve Flour + Cocoa Powder + Bucurb",
+        "Sieve Flour + Cocoa Powder + Bicarbonate of Soda",
         "Add Caster Sugar then mix",
         "Add golden Syrup + Eggs + Sunflower Oil + Milk",
         "Electrically Whisk",
@@ -22,22 +22,22 @@
       "150g Caster Sugar",
       "2tbsp + 110g Cocoa Powder",
       "2tbsp Golden Syrup",
-      "1tbsp Buvurb ?",
+      "1tbsp Bicarbonate of Soda",
       "2 Large Eggs",
-      "2.5tbsp + 150ml Milk",
+      "150ml + 2.5tbsp Milk",
       "125g Icing Sugar",
       "100g Unsalted Butter"
     ],
     "information": {
-      "prepTime": "TBD",
-      "cookTime": "TBD",
+      "prepTime": "15 mins",
+      "cookTime": "30 mins",
       "serves": "8"
     }
   },
   "metaData": {
     "date": {
       "created": "2024-12-07T14:37:04.742Z",
-      "modified": "2024-12-07T14:37:04.742Z"
+      "modified": "2024-12-07T15:04:22.573Z"
     },
     "imageCount": 0,
     "tags": ["Cake", "Chocolate"],
@@ -50,8 +50,8 @@
     "author": {
       "name": "Jordan Kivlin-Walker",
       "image": {
-        "webpURL": "/common-images/authors/XanderWalker.webp",
-        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+        "webpURL": "/common-images/authors/JordanKivlinWalker.webp",
+        "jpgURL": "/common-images/authors/JordanKivlinWalker.jpg"
       }
     }
   }
