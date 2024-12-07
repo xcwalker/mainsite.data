@@ -1,0 +1,58 @@
+{
+  "data": {
+    "title": "Chocolate Fudge Cake",
+    "subTitle": "Jordan's Cakes",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, in temporibus laborum, non est deleniti eum hic, ipsam recusandae dolor impedit? Cumque odit sapiente explicabo minus ea voluptatum eaque illo.",
+    "instructions": {
+      "prep": ["Preheat oven to 160C"],
+      "cook": [
+        "Sieve Flour + Cocoa Powder + Bucurb",
+        "Add Caster Sugar then mix",
+        "Add golden Syrup + Eggs + Sunflower Oil + Milk",
+        "Electrically Whisk",
+        "Bake in two tins for 25-30 mins",
+        "Beat Unsalted Butter",
+        "Gradually add Icing Sugar + Cocoa Powder",
+        "Add Milk until 'Puffy and Spreadable'"
+      ]
+    },
+    "ingredients": [
+      "150ml Sunflower Oil",
+      "175g Self-Rasing Flower",
+      "150g Caster Sugar",
+      "2tbsp + 110g Cocoa Powder",
+      "2tbsp Golden Syrup",
+      "1tbsp Buvurb ?",
+      "2 Large Eggs",
+      "2.5tbsp + 150ml Milk",
+      "125g Icing Sugar",
+      "100g Unsalted Butter"
+    ],
+    "information": {
+      "prepTime": "TBD",
+      "cookTime": "TBD",
+      "serves": "8"
+    }
+  },
+  "metaData": {
+    "date": {
+      "created": "2024-12-07T14:37:04.742Z",
+      "modified": "2024-12-07T14:37:04.742Z"
+    },
+    "imageCount": 0,
+    "tags": ["Cake", "Chocolate"],
+    "collection": "JCake",
+    "collectionName": "Jordan's Cakes",
+    "colors": {
+      "dark": "#9f7f2a",
+      "light": "#9f7f2a"
+    },
+    "author": {
+      "name": "Jordan Kivlin-Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
