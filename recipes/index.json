@@ -3,6 +3,7 @@
   { "slug": "CosmoChickenBaguette", "collection": "Baguette" },
   { "slug": "MexicanBurritoBowl", "collection": "TBD" },
   { "slug": "ChocolateFudgeCake", "collection": "JCake" },
-  { "slug": "DarkChocolateFudgeCake", "collection": "JCake" }
+  { "slug": "DarkChocolateFudgeCake", "collection": "JCake" },
+  { "slug": "BananaBread", "collection": "JCake" }
 ]
 

@@ -1,43 +1,48 @@
 {
   "data": {
-    "title": "Dark Chocolate Fudge Cake",
+    "title": "Chocolate Fudge Cake",
     "subTitle": "Jordan's Cakes",
     "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, in temporibus laborum, non est deleniti eum hic, ipsam recusandae dolor impedit? Cumque odit sapiente explicabo minus ea voluptatum eaque illo.",
     "instructions": {
-      "prep": ["Preheat oven to 170C"],
+      "prep": ["Preheat oven to 160C"],
       "cook": [
-        "Mix the Caster Sugar, Softened Butter, Self-Raising Flour, Cocoa Powder, Eggs, Baking Powderm and the Milk.",
-        "Bake in two tins for 20 minutes.",
-        "Heat the cream until it begins to boil.",
-        "Take off the heat.",
-        "Add the butter, honey and the chocolate broken down.",
-        "Let it melt for 5 minutes, then stir.",
-        "Put on the cake (Just Warm)."
+        "Sieve Flour, Cocoa Powder and Bicarbonate of Soda",
+        "Add the Caster Sugar then mix",
+        "Add the Golden Syrup, Eggs, Sunflower Oil and Milk",
+        "Electrically Whisk",
+        "Bake in two tins for 25-30 mins",
+        "Beat Unsalted Butter",
+        "Gradually add Icing Sugar and Cocoa Powder",
+        "Add Milk until &quot;Puffy and Spreadable&quot;.",
+        "Remove cakes from tins and cool.",
+        "Put Icing to the cake."
       ]
     },
     "ingredients": [
-      "200g Caster Sugar",
-      "200f Softened Butter",
-      "170g Self-Raising Flour",
-      "30g Cocoa Powder",
-      "4 Eggs",
-      "1tsp Baking Powder",
-      "2tbsp Milk",
-      "200ml Double Cream",
-      "50g Butter",
-      "3tbsp Clear Honey",
-      "200g Dark Chocolate (70%)"
+      "150ml Sunflower Oil",
+      "175g Self-Rasing Flower",
+      "150g Caster Sugar",
+      "2tbsp Cocoa Powder",
+      "2tbsp Golden Syrup",
+      "1tbsp Bicarbonate of Soda",
+      "2 Large Eggs",
+      "150ml Milk",
+      "For The Icing",
+      "125g Icing Sugar",
+      "100g Unsalted Butter",
+      "2.5tbsp Milk",
+      "40g Cocoa Powder"
     ],
     "information": {
       "prepTime": "15 mins",
-      "cookTime": "20 mins",
+      "cookTime": "30 mins",
       "serves": "8"
     }
   },
   "metaData": {
     "date": {
-      "created": "2024-12-07T14:37:04.742Z",
-      "modified": "2024-12-07T15:04:22.573Z"
+      "created": "2024-12-07T15:55:42.363Z",
+      "modified": "2024-12-07T15:55:42.363Z"
     },
     "imageCount": 0,
     "tags": ["Cake", "Chocolate"],

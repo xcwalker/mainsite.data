@@ -1,0 +1,52 @@
+{
+  "data": {
+    "title": "Banana Bread",
+    "subTitle": "Jordan's Cakes",
+    "description": "&quot;Yummy!*quot; - Jordan",
+    "instructions": {
+      "prep": ["Mash bananas.", "Preheat oven to 160C.", "Line a loaf tin with baking paper."],
+      "cook": [
+        "Mix together the Caster Sugar and the Butter.",
+        "Add one Egg at a time and mix.",
+        "Add the Self-Raising Flour, the Baking Powder and the Bananas, then mix.",
+        "Add the mixture to a loaf tin.",
+        "Cook in the oven for 40-50 minutes.",
+        "Remove from the tin and cool for 5 minutes, then serve."
+      ]
+    },
+    "ingredients": [
+      "140g Butter",
+      "140g Caster Sugar",
+      "2 Large Eggs",
+      "140g Self-Raising Flour",
+      "1tsp Baking Powder",
+      "2 Banana (You can more)"
+    ],
+    "information": {
+      "prepTime": "10 mins",
+      "cookTime": "50 mins",
+      "serves": "8"
+    }
+  },
+  "metaData": {
+    "date": {
+      "created": "2024-12-07T19:20:50.797Z",
+      "modified": "2024-12-07T19:20:50.797Z"
+    },
+    "imageCount": 0,
+    "tags": ["Cake", "Banana", "Loaf", "Loaf-cake"],
+    "collection": "JCake",
+    "collectionName": "Jordan's Cakes",
+    "colors": {
+      "dark": "#9f7f2a",
+      "light": "#9f7f2a"
+    },
+    "author": {
+      "name": "Jordan Kivlin-Walker",
+      "image": {
+        "webpURL": "/common-images/authors/JordanKivlinWalker.webp",
+        "jpgURL": "/common-images/authors/JordanKivlinWalker.jpg"
+      }
+    }
+  }
+}
