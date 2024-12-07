@@ -2,6 +2,7 @@
   { "slug": "ChickenAndChorizoPaella", "collection": "Best Of" },
   { "slug": "CosmoChickenBaguette", "collection": "Baguette" },
   { "slug": "MexicanBurritoBowl", "collection": "TBD" },
-  { "slug": "ChocolateFudgeCake", "collection": "JCake" }
+  { "slug": "ChocolateFudgeCake", "collection": "JCake" },
+  { "slug": "DarkChocolateFudgeCake", "collection": "JCake" }
 ]
 
