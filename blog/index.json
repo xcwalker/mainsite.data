@@ -2,5 +2,9 @@
   {
     "slug": "test-post",
     "collection": "test"
+  },
+  {
+    "slug": "table-test",
+    "collection": "test"
   }
 ]

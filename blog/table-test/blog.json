@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "A Test of Tables",
+    "subTitle": "You gonna work right?",
+    "description": "|1|2|3|4|5|6|7|8|9|\n|--|--|--|--|--|--|--|--|--|\n|a|b|c|d|e|f|g|h|i|"
+  },
+  "metaData": {
+    "date": {
+      "created": "2025-01-05T18:51:57.820Z",
+      "modified": "2025-01-05T18:51:57.820Z"
+    },
+    "slug": "table-test",
+    "imageCount": 0,
+    "tags": ["test", "first", "duh"],
+    "collection": "test",
+    "collectionName": "testing",
+    "author": {
+      "name": "Xander Walker",
+      "image": {
+        "webpURL": "/common-images/authors/XanderWalker.webp",
+        "jpgURL": "/common-images/authors/XanderWalker.jpg"
+      }
+    }
+  }
+}
